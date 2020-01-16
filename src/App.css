@@ -17,7 +17,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
+}x
 
 .App-link {
   color: #61dafb;
@@ -30,4 +30,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.News-item {
+  border: 1px black dotted;
+  width: 50%;
+}
+
+.News-item img {
+  height:auto;
+  width: 100%;
+  object-fit: contain;
+}
+
+.News-list {
+  list-style-type: none;
+  width:100%;
 }

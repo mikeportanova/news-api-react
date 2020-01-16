@@ -1,0 +1,3 @@
+Create a web app where each component is a different social media or 
+other online property wherein you can use a search bar to search across
+everything for your t
